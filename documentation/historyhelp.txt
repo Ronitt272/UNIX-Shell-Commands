@@ -1,0 +1,7 @@
+history: displays all the previous commands entered.
+
+usage: ./history
+
+Flags - 
+     -c   clears the history.
+     -n   deletes nth line in this entire history

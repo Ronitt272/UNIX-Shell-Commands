@@ -1,0 +1,4 @@
+echo: outputs the arguments
+
+usage: ./echo [ARGS]
+

@@ -1,0 +1,11 @@
+clear 
+clear 
+mkdir ronitt 
+ls -m 
+pwd -W 
+touch test.i 
+ls 
+rm -i test.i 
+date -u 
+echo Hello 
+history 

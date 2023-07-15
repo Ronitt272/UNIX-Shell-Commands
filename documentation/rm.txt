@@ -1,0 +1,7 @@
+rm: Deletes the file specified in ARGS
+
+usage: ./rm [OPTIONS] [ARGS]
+
+Flags - 
+     -i   asks for the permission of the user before deleting the specified file. 
+     -v   (verbose) informs the user that the specified file has been deleted. 

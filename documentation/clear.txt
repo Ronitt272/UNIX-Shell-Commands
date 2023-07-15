@@ -1,0 +1,3 @@
+clear: clears the shell.
+
+usage: ./clear

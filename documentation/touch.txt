@@ -1,0 +1,6 @@
+touch: update access to a file, and therefore can be used to create a file for use by the user.
+
+usage: ./touch [OPTIONS] [FILE]
+
+Flags - 
+     -O   asks for user's permission before overwriting an already existing file.

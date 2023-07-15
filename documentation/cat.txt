@@ -1,0 +1,8 @@
+cat: displays the file asked for in the ARGS line by line. 
+
+usage: ./cat [OPTIONS] [FILE]
+
+Flags -
+     -n   displays the line number before each line. The line numbers start from 1. 
+
+     -e   marks the end of a line using the $ sign.

@@ -1,0 +1,8 @@
+mkdir: creates a directory with the name as specified in arguments
+
+usage: ./mkdir [OPTIONS] [DIRECTORY]
+
+Flags -
+    -v   informs the user when the directory is created, and also shows an error if it is unable to be created
+
+    -p   creates all parent directories as required, and therefore no error is displayed even if the parent directories do not exist. 

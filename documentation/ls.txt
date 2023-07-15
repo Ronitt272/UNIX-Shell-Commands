@@ -1,0 +1,8 @@
+ls: displays the contents of the current directory
+
+usage: ls [OPTIONS]
+
+Flags -
+     -N   displays each content of the directory in a new line.
+     -m   displays contents of the directory such that each content is separated by a comma.
+     -A   skips the parent directory (.) and the current directory (..), and displays all the other contents of the directory.

@@ -1,0 +1,7 @@
+pwd: prints the current working directory.
+
+usage: ./pwd [OPTIONS]
+
+Flags - 
+     -P   prints the current working directory's physical positioning of the current working directory, without any symbolic links. 
+     -W   prints the symbolic positioning of the current working directory.

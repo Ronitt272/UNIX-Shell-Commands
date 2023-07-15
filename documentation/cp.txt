@@ -1,0 +1,6 @@
+cp: copies the contents of one file to another file.
+
+usage: ./cp [OPTIONS] [SOURCE_FILE] [DESTINATION_FILE]
+
+Flags - 
+     -i   prompts before overwriting the destination file incase it is not empty.

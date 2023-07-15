@@ -1,0 +1,7 @@
+date: displays the current date and present time.
+
+usage: ./date [OPTIONS]
+
+Flags -
+     -u   displays the current date and present time according to UTC.
+     -R   uses the RFC 2822 date and time format to display the current date and present time.
